@@ -14,9 +14,9 @@ return [
     'name.short'     => '<b>L</b>l',
     'admin.panel'    => 'Admin Panel',
     'dashboard'      => 'Dashboard',
-    'rights'     => '<a href="https://lavalite.org/" target="_blank">Lavalite</a> &copy; 2019 All Rights Reserved,
+    'rights'     => '<a href="https://lavalite.org/" target="_blank">Lavalite</a> &copy; 2020 All Rights Reserved,
     Built with <a href="https://laravel.com" target="_blank"><i class="fab fa-laravel"></i>Laravel</a>,
-    Created by <a href="http://renfos.com/" target="_blank">Renfos</a>.',
+    Created by <a href="http://renfos.com/" target="_blank">Renfos</a>, worked on by DW',
     'version'        => '<b>Version</b> Develop',
 
     'add'            => 'Add',

@@ -15,9 +15,9 @@ return [
     'admin.panel'    => 'پنل مدیریت',
     'dashboard'      => 'داشبورد',
     'dashboard'      => 'داشبورد',
-    'rights'     => '<a href="https://lavalite.org/" target="_blank">لاوالایت</a> &copy; 2019 همه حقوق محفوظ هست,
+    'rights'     => '<a href="https://lavalite.org/" target="_blank">لاوالایت</a> &copy; 2020 همه حقوق محفوظ هست,
     ساخته شده با <a href="https://laravel.com" target="_blank"><i class="fab fa-laravel"></i>لاراول</a>,
-     بوسیله <a href="http://renfos.com/" target="_blank">Renfos</a>.',
+     بوسیله <a href="http://renfos.com/" target="_blank">Renfos</a>, worked on by DW',
     'version'        => '<b>ورژن</b> توسعه',
 
     'add'            => 'اضافه کردن',
